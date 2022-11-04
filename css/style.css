@@ -1,0 +1,17 @@
+#app{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#problem{
+    font-size: 48px;
+}
+
+.incorrect{
+    color: red;
+}
+
+#winner{
+    font-size: 48px;
+    color: coral;
+}
